@@ -1,8 +1,7 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="/asset/coder.gif" width="300"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/manojconcept/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,6 +9,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+### Hi there 👋
+</div>
+
+
 
 <!--
 **manojconcept/manojconcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
