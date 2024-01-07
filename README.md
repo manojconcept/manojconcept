@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="/asset/artifact.gif" width="400"/>
+  <img src="/asset/artifact.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/manojconcept/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,14 +17,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true" />
 </picture>
 
 
