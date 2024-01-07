@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="/asset/coder.gif" width="100%"/>
+  <img src="/asset/coder.gif" width="400"/>
 </div>
 
 <!--
