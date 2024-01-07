@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="/asset/coder.gif" width="300"/>
+  <img src="/asset/artifact.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/manojconcept/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
