@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://huggingface.co/manojconcept">
-    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg" alt="Hugging Face"/>
+    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-lg-dark.svg" alt="Hugging face"/>
   </a>
   <a href="https://twitter.com/MANOJCONCEPT">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
