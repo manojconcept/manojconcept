@@ -11,6 +11,7 @@
 </div>
 <h3>Hi there 👋</h3>
 </div>
+[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md.svg)](https://huggingface.co/manojconcept)
 
 
 
