@@ -27,6 +27,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true" />
 </picture>
 
+<table align="center" border="0">
+ <tr>
+    <td><b style="font-size:30px"></b></td>
+    <td><b style="font-size:30px"></b></td>
+ </tr>
+ <tr>
+    <td>
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true" />
+</picture>
+    </td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
 
 
