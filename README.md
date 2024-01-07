@@ -5,13 +5,16 @@
   <a href="https://www.linkedin.com/in/manojconcept/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://huggingface.co/manojconcept">
+    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md.svg" alt="Twitter Badge"/>
+  </a>
   <a href="https://twitter.com/MANOJCONCEPT">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <h3>Hi there 👋</h3>
 </div>
-[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md.svg)](https://huggingface.co/manojconcept)
+
 
 
 
