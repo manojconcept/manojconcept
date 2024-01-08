@@ -1,6 +1,17 @@
 
 <div id="header" align="center">
 <h1><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h1>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/manojconcept/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://huggingface.co/manojconcept">
+    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg" alt="Hugging Face"/>
+  </a>
+  <a href="https://twitter.com/MANOJCONCEPT">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   
 <table align="center" border="0">
  <!-- <tr>
@@ -25,18 +36,6 @@
     </td>
  </tr>
 </table>
-
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/manojconcept/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://huggingface.co/manojconcept">
-    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg" alt="Hugging Face"/>
-  </a>
-  <a href="https://twitter.com/MANOJCONCEPT">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 </div>
 
 
