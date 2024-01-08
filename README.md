@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  
+<hr/>
 <table align="center" border="0">
  <!-- <tr>
     <td><b style="font-size:30px">Title</b></td>
