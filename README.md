@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./asset/crow.gif" width="100"/>
+</div>
 
 <div id="header" align="center">
 <h3><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h3>
