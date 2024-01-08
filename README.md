@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
 <h1><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h1>
-<hr/>
   <img src="/asset/galaxy.gif" width="300"/>
+  
   <div id="badges">
   <a href="https://www.linkedin.com/in/manojconcept/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
