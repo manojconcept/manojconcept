@@ -26,7 +26,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: radical)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true"
@@ -34,7 +34,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true" />
 </picture></td>
-    <td></td>
+    <td>
+    </td>
  </tr>
 </table>
 
