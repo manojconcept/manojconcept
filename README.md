@@ -36,7 +36,7 @@
 </picture></td>
     <td>
       
-  <img src="/asset/compu.png" width="300"/>
+  <img src="/asset/coder.gif" width="300"/>
     </td>
  </tr>
 </table>
