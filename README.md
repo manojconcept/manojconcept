@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./asset/camera.gif" width="100"/>
-</div>
-
+<img src="./asset/camera.gif" width="100"/>
 <div id="header" align="center">
 <h3><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h3>
 <div id="badges">
