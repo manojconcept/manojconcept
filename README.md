@@ -1,5 +1,6 @@
 
 <div id="header" align="center">
+<h3><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h3>
   <img src="/asset/coder.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/manojconcept/">
@@ -12,7 +13,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h3>Hi there <img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h3>
 </div>
 
 
