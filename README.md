@@ -1,6 +1,6 @@
 <img src="./asset/camera.gif" width="100"/>
 <div id="header" align="center">
-<img src="./asset/3BBS.gif" width="100"/>
+<img src="./asset/galaxy.gif" width="100"/>
 <h3><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/manojconcept/">
@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true" />
 </picture></td>
     <td>
-     <img src="/asset/galaxy.gif" width="250"/>
+     <img src="/asset/3BBS.gif" width="250"/>
     </td>
  </tr>
 </table>
