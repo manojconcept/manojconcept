@@ -25,7 +25,7 @@
     <td>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true&theme=ambient_gradient"
     media="(prefers-color-scheme: dark)"
   />
   <source
