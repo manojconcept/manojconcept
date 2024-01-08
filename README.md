@@ -35,8 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manojconcept&show_icons=true" />
 </picture></td>
     <td>
-      
-  !-- <img src="/asset/coder.gif" width="300"/> --!
     </td>
  </tr>
 </table>
