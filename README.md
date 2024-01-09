@@ -25,7 +25,7 @@
  </tr>
  <tr>
     <td>
-    <img src="./asset/icons/matrix.webp"/>
+    <img src="./asset/icons/matrix.webp" width="50"/>
     </td>
     <td>
     </td>
