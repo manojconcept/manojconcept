@@ -30,22 +30,34 @@
  </tr>
  <tr>
     <td>
+    <a href="https://react.dev/" target="_blank">
     <img src="./asset/icons/matrix.webp" width="50"/>
+    </a>
     </td>
     <td>
+     <a href="https://nodejs.org/en" target="_blank">
     <img src="./asset/icons/node.jpg" width="50"/>
+    </a>
     </td>
     <td>
+     <a href="https://expressjs.com/" target="_blank">
     <img src="./asset/icons/expressjs.png" width="50"/>
+    </a>
     </td>
     <td>
+     <a href="https://bun.sh/" target="_blank">
     <img src="./asset/icons/bunjs.png" width="50"/>
+    </a>
     </td>
     <td>
+     <a href="https://www.mongodb.com/" target="_blank">
     <img src="./asset/icons/mongo_logo.jpg" width="50"/>
+    </a>
     </td>
     <td>
+     <a href="https://www.mysql.com/" target="_blank">
     <img src="./asset/icons/mysql.png" width="50"/>
+    </a>
     </td>
     
  </tr>
