@@ -4,7 +4,7 @@
 <div id="header" align="center">
 <img src="./asset/giphy.gif" width="100"/>
 <h3><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h3>
-<H4>A passionate Full Stack Developer, skilled in crafting end-to-end solutions with a focus on innovation and user-centric design.</H4>
+<H4>Passionate Full Stack Developer, skilled in crafting end-to-end solutions with a focus on innovation and user-centric design.</H4>
 <div id="badges">
   <a href="https://www.linkedin.com/in/manojconcept/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
