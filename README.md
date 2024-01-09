@@ -12,6 +12,7 @@
   <a href="https://twitter.com/MANOJCONCEPT">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://dev.to/manojconcept" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 <hr/>
 <table align="center" border="0">
