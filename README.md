@@ -64,10 +64,10 @@
 </table>
 <hr/>
 <table align="center" border="0">
- <!-- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr> -->
+ <tr>
+    <td><b style="font-size:30px">Github Stats</b></td>
+    <td><b style="font-size:30px">Repositories</b></td>
+ </tr>
  <tr>
     <td>
 <picture>
