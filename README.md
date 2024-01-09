@@ -65,7 +65,7 @@
 <hr/>
 <table align="center" border="0">
  <tr>
-    <td><b style="font-size:30px">Github Stats</b></td>
+    <td><b style="font-size:30px"></b></td>
     <td><b style="font-size:30px">Repositories</b></td>
  </tr>
  <tr>
