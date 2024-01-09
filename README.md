@@ -20,7 +20,7 @@
 <br>
 <table align="center" border="0">
  <tr>
-    <td><b style="font-size:30px"></b></td>
+    <!-- <td><b style="font-size:30px"></b></td> -->
     <td><b style="font-size:30px">ReactJs</b></td>
     <td><b style="font-size:30px">NodeJs</b></td>
     <td><b style="font-size:30px">ExpressJs</b></td>
