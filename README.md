@@ -27,6 +27,7 @@
     <td><b style="font-size:30px">BunJs</b></td>
  </tr>
  <tr>
+    <td><b style="font-size:30px">JavaScript</b></td>
     <td>
     <img src="./asset/icons/matrix.webp" width="50"/>
     </td>
