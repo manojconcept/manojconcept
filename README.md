@@ -19,12 +19,14 @@
 </div>
 <br>
 <table align="center" border="0">
- <!-- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr> -->
  <tr>
-    <td></td>
+    <td><b style="font-size:30px">reactJs</b></td>
+    <td><b style="font-size:30px"></b></td>
+ </tr>
+ <tr>
+    <td>
+    <img src="./asset/icons/matrix.webp"/>
+    </td>
     <td>
     </td>
  </tr>
