@@ -18,15 +18,13 @@
   <a href="https://dev.to/manojconcept" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 <br>
-<h5 align=center>Javascript</h5>
+<h4 align=center>Javascript</h4>
 <table align="center" border="0">
  <tr>
     <td><b style="font-size:30px">ReactJs</b></td>
     <td><b style="font-size:30px">NodeJs</b></td>
     <td><b style="font-size:30px">ExpressJs</b></td>
     <td><b style="font-size:30px">BunJs</b></td>
-    <td><b style="font-size:30px">MongoDB</b></td>
-    <td><b style="font-size:30px">MySQL</b></td>
  </tr>
  <tr>
     <td>
@@ -41,16 +39,9 @@
     <td>
     <img src="./asset/icons/bunjs.png" width="50"/>
     </td>
-    <td>
-    <img src="./asset/icons/mongo_logo.jpg" width="50"/>
-    </td>
-    <td>
-    <img src="./asset/icons/mysql.png" width="50"/>
-    </td>
-    
  </tr>
 </table>
-<h5 align=center>DataBase</h5>
+<h4 align=center>DataBase</h4>
 <table align="center" border="0">
  <tr>
     <td><b style="font-size:30px">MongoDB</b></td>
