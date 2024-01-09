@@ -1,5 +1,5 @@
 <img src="./asset/camera.gif" align="left" width="100"/>
-<img align="right" src="https://profile-counter.glitch.me/{manojconcept}/count.svg" alt="manojconcept :: Visitor's Count" />
+<img align="right" src="https://komarev.com/ghpvc/?username=manojconcept&color=brightgreen" alt="watching_count" />
 <div id="header" align="center">
 <img src="./asset/giphy.gif" width="100"/>
 <h3><img src="/asset/24S2.gif" width="50"/>Hi there, I'm Manoj Manoharan<img src="/asset/mona-loading-dark-7701a7b97370.gif" width="50"/></h3>
