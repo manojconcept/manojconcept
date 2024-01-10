@@ -18,6 +18,7 @@
   <a href="https://dev.to/manojconcept" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 <br>
+<h3 align="center">Technologies & Tools</h3>
 <table align="center" border="0">
  <tr>
     <!-- <td><b style="font-size:30px"></b></td> -->
