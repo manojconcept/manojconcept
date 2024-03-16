@@ -89,7 +89,18 @@
     </td>
  </tr>
 </table>
+
+--------------------
+<table align="center" border="0">
+
+ <tr>
+    <td>
+      <a href="https://app.daily.dev/manojconcept"><img src="https://api.daily.dev/devcards/v2/F1wckublbhFuzrzW4GPDg.png?type=default&r=jz1" width="356" alt="Manoj Manoharan's Dev Card"/></a>
+    </td>
+ </tr>
+</table>
 </div>
+
 
 
 
